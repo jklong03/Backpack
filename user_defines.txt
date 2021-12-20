@@ -10,10 +10,10 @@
 
 ### BINDING PHRASE: ###
 # https://github.com/ExpressLRS/Backpack/wiki#binding
-#-DMY_BINDING_PHRASE="default ExpressLRS binding phrase"
+-DMY_BINDING_PHRASE="Zeekee"
 
-#-DHOME_WIFI_SSID=""
-#-DHOME_WIFI_PASSWORD=""
+-DHOME_WIFI_SSID="Boog_Kids"
+-DHOME_WIFI_PASSWORD="Zeekee12551"
 
 # Turn on debug messages, if disabled then all debugging options (starting with DEBUG_) are disabled
 #-DDEBUG_LOG
